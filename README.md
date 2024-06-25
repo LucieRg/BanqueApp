@@ -35,10 +35,10 @@ Le projet est organisé en plusieurs packages :
 5. Afficher opérations et le solde
 6. Quitter
 Choix: 1
-Comptes du client Doe John:
-Nombre de comptes courants: 1
-Nombre de comptes épargnes: 0
-Nombre de comptes payants: 1
+- Comptes du client Doe John:
+- Nombre de comptes courants: 1
+- Nombre de comptes épargnes: 0
+- Nombre de comptes payants: 1
 
 ### Créer un compte
 
@@ -56,8 +56,8 @@ Choix: 2
 3. Créer un compte payant
 0. Annuler la création
 Choix: 1
-Dépôt initial: 500
-Compte courant créé avec succès.
+- Dépôt initial: 500
+- Compte courant créé avec succès.
 
 
 ### Effectuer un dépôt 
@@ -70,12 +70,12 @@ Compte courant créé avec succès.
 5. Afficher opérations et le solde
 6. Quitter
 Choix: 3
-Sélectionner un compte :
+- Sélectionner un compte :
 1. CompteCourant
 2. ComptePayant
-Choix: 1
-Montant à déposer: 200
-Dépôt effectué avec succès.
+- Choix: 1
+- Montant à déposer: 200
+- Dépôt effectué avec succès.
 
 
 ### Effectuer un retrait 
@@ -88,12 +88,12 @@ Dépôt effectué avec succès.
 5. Afficher opérations et le solde
 6. Quitter
 Choix: 4
-Sélectionner un compte :
+- Sélectionner un compte :
 1. CompteCourant
 2. ComptePayant
 Choix: 1
-Montant à retirer: 100
-Retrait effectué avec succès.
+- Montant à retirer: 100
+- Retrait effectué avec succès.
 
 ### Afficher opérations et soldes 
 
@@ -105,15 +105,15 @@ Retrait effectué avec succès.
 5. Afficher opérations et le solde
 6. Quitter
 Choix: 5
-Sélectionner un compte :
+- Sélectionner un compte :
 1. CompteCourant
 2. ComptePayant
 Choix: 1
-Solde du compte: 600
+- Solde du compte: 600
 Opérations:
-Dépot de 500.0
-Dépot de 200.0
-Retrait de 100.0
+- Dépot de 500.0
+- Dépot de 200.0
+- Retrait de 100.0
 
 
 
