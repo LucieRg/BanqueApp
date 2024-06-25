@@ -144,6 +144,7 @@ Choix: 1
 
 
 - Solde du compte: 600
+  
 Opérations:
 - Dépot de 500.0
 - Dépot de 200.0
